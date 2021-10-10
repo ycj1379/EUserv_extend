@@ -5,7 +5,7 @@
 
 自动获取账号内所有的VPS项目，并检测是否需要续期，需要续期会自动续期。
 
-## 使用说明
+## 使用说明f
 
 1、修改 **main.py** 中的用户名，密码，并配置合适的推送方式（[Server酱](https://sc.ftqq.com/?c=code)、[酷推](https://cp.xuthus.cc)、[PushPlus](https://pushplus.hxtrip.com/message)、[Telegram Bot Push](https://core.telegram.org/bots/api#authorizing-your-bot) 或 [wecomchan](https://github.com/easychen/wecomchan)）
 
